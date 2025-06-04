@@ -1,6 +1,6 @@
 # HIV Burden and Multidimensional Poverty Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 This project investigates the global burden of HIV and its relationship with multidimensional poverty. By combining epidemiological data with World Bank development indicators, it aims to identify patterns and socioeconomic drivers of HIV prevalence across countries and WHO regions.
 
@@ -8,7 +8,7 @@ This is a **proposal-stage analytical project**, outlining a comprehensive plan 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Visualize global HIV trends, with a focus on countries contributing to 75% of global cases.
 - Examine regional trends in HIV prevalence across WHO regions from 2000 to 2023.
@@ -17,7 +17,7 @@ This is a **proposal-stage analytical project**, outlining a comprehensive plan 
 
 ---
 
-## 🧪 Methodology (Planned)
+## Methodology (Planned)
 
 1. **Data Acquisition & Cleaning**
    - Load and clean HIV prevalence data.
@@ -35,14 +35,14 @@ This is a **proposal-stage analytical project**, outlining a comprehensive plan 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Languages:** Python
 - **Libraries:** `pandas`, `numpy`, `seaborn`, `matplotlib`, `geopandas`, `statsmodels`
 
 ---
 
-## 📈 Key Insights (Expected)
+## Key Insights (Expected)
 
 - Certain countries consistently bear a disproportionate share of global HIV cases.
 - Multidimensional poverty is expected to be positively associated with HIV prevalence.
@@ -50,7 +50,7 @@ This is a **proposal-stage analytical project**, outlining a comprehensive plan 
 
 ---
 
-## 🔍 Future Additions
+## Future Additions
 
 - Formal residual analysis and model validation.
 - Sensitivity analysis by poverty dimension.
